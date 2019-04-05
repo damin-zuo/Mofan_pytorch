@@ -18,6 +18,9 @@ Mofan tutorial for pytorch
     tanh=(e-x-ex)/(e-x+ex)，适用于循环神经网络（recurrent neural networks）
     sigmoid=1/(1+e-x) 
 2 20190403，Neural Network(nn)基础
+2.1 regression.py 基础神经网络，线性回归
+    SGD, schomatic gradient descent
+    
 
 
 
